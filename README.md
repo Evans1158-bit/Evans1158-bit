@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm **Evans** 👋
 
-<!--
-**Evans1158-bit/Evans1158-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
 
-Here are some ideas to get you started:
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in **Bronx, New York** → Raised in **Bronx, New York** → Currently in **Bronx, New York**.
+- Outside of work I like to **Gamble, play games, create ideas, help my family and friends.**
+- Let's connect via email: **evans.soto1158@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+
+### Languages
+
+- Python
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
