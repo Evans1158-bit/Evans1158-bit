@@ -29,4 +29,4 @@ In a few brief paragraphs, use your chosen metaphor to explain:
 
 ### Response 1
 
-Your response here...
+A git commit is like overwriting your save in a video game, it could be permanent unless you immediately do something about it and saves your work exactly how it is in that moment and time. git add is like going into the menu and then git commit is like replacing the old save with the new one and after that, git add is just like the "are you sure" message you get before actually doing it and then you did it, you have saved your game in a brand new area.
